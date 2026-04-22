@@ -65,3 +65,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=120&section=footer"/>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=아이디)](https://solved.ac/dada22#)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourid)](https://solved.ac/dada22)
+
+
