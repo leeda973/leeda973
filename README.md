@@ -4,21 +4,17 @@
 
 </div>
 
-## 📮 Contact
-
-- **GitHub** : [github.com/leeda973](https://github.com/leeda973)
-- **Email** : leedaeun973@gmail.com
 
 <br/>
 
 ## 👩‍💻 About Me
 
 > "어려운 문제일수록 깊게 파고들어 결국 해답을 찾아내는 즐거움을 알며, 매일 조금 더 단단해진 결과물을 세상에 내놓습니다."
+- 💻 백엔드 개발자 이다은입니다, Java / Spring Boot를 주력으로 합니다
+- 🤝 팀 프로젝트에서 전자결재, 실시간 채팅 등 핵심 기능을 설계·구현한 경험이 있습니다
+- **GitHub** : [github.com/leeda973](https://github.com/leeda973)
+- **Email** : leedaeun973@gmail.com
 
-- 💻 Java / Spring Boot 기반 백엔드 개발을 주력으로 합니다
-- 🌱 현재 MSA 아키텍처 & 클라우드 인프라 를 학습 중
-- 🔐 Spring Security, JWT를 활용한 인증/인가 구현 경험 보유
-- ⚙️ CI/CD 파이프라인 구축 및 AWS 배포 경험 보유
 
  <p>
   <a href="https://github.com/leeda973"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -80,6 +76,8 @@
 ### 1. WORKFORCE — AI 기반 통합 인사관리 플랫폼
 
 > AI 챗봇 온보딩부터 전자결재·급여·평가·ESG까지 인사 업무 전반을 하나의 플랫폼으로 통합한 HRMS
+
+🔗 GitHub : [github.com/beyond-sw-camp/be23-fin-4team-workforce-be-devops](https://github.com/beyond-sw-camp/be23-fin-4team-workforce-be-devops)
 
 | | |
 |---|---|
@@ -152,6 +150,8 @@
 ### 2. MOIN — 모임 플랫폼
 
 > 처음 사용하는 사용자도 심리적 장벽 없이, 신뢰와 소통이 자연스럽게 형성되는 모임 플랫폼
+
+🔗 GitHub : [github.com/beyond-sw-camp/be23-2nd-4team-moin-be-devops](https://github.com/beyond-sw-camp/be23-2nd-4team-moin-be-devops)
 
 | | |
 |---|---|
