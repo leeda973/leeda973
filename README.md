@@ -9,8 +9,14 @@
 > "어려운 문제일수록 깊게 파고들어 결국 해답을 찾아내는 즐거움을 알며, 매일 조금 더 단단해진 결과물을 세상에 내놓습니다."
 - 💻 백엔드 개발자 이다은입니다, Java / Spring Boot를 주력으로 합니다
 - 🤝 팀 프로젝트에서 전자결재, 실시간 채팅 등 핵심 기능을 설계·구현한 경험이 있습니다
-- **GitHub** : [github.com/leeda973](https://github.com/leeda973)
-- **Email** : leedaeun973@gmail.com
+
+**📫 Contact**
+- GitHub : [github.com/leeda973](https://github.com/leeda973)
+- Email : leedaeun973@gmail.com
+
+**🔗 Projects**
+- WORKFORCE : [github.com/beyond-sw-camp/be23-fin-4team-workforce-be-devops](https://github.com/beyond-sw-camp/be23-fin-4team-workforce-be-devops)
+- MOIN : [github.com/beyond-sw-camp/be23-2nd-4team-moin-be-devops](https://github.com/beyond-sw-camp/be23-2nd-4team-moin-be-devops)
 
 
  <p>
