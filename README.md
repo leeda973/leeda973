@@ -11,7 +11,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 > "어려운 문제일수록 깊게 파고들어 결국 해답을 찾아내는 즐거움을 알며, 매일 조금 더 단단해진 결과물을 세상에 내놓습니다."
 
@@ -34,7 +34,6 @@
 - [Projects](#-projects)
   - [1. WORKFORCE — AI 기반 통합 인사관리 플랫폼](#1-workforce--ai-기반-통합-인사관리-플랫폼)
   - [2. MOIN — 모임 플랫폼](#2-moin--모임-플랫폼)
-- [Contact](#-contact)
 
 <br/>
 
